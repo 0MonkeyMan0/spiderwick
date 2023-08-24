@@ -1,0 +1,69 @@
+Items: {
+	BrownieBlade: {
+		DisplayName: Brownie Blade
+		Tooltip: ""
+	}
+
+	ExampleBuffPotion: {
+		DisplayName: Example Buff Potion
+		Tooltip: ""
+	}
+
+	GoblinskinSlingshot: {
+		DisplayName: Goblinskin Slingshot
+		Tooltip: ""
+	}
+
+	GriffinTalon: {
+		DisplayName: Griffin Talon
+		Tooltip: ""
+	}
+
+	MulgarathsEyepatch: {
+		DisplayName: Mulgaraths Eyepatch
+		Tooltip: ""
+	}
+
+	SeeingStone: {
+		DisplayName: Seeing Stone
+		Tooltip: ""
+	}
+
+	ExampleLightPetItem: {
+		DisplayName: Example Light Pet Item
+		Tooltip: ""
+	}
+
+	ExamplePetItem: {
+		DisplayName: Example Pet Item
+		Tooltip: ""
+	}
+
+	ThimbletackItem: {
+		DisplayName: Thimbletack Item
+		Tooltip: ""
+	}
+}
+
+Buffs: {
+	ExampleLightPetBuff: {
+		DisplayName: Example Light Pet Buff
+		Description: Mods.test.Buffs.ExampleLightPetBuff.Description
+	}
+
+	ExamplePetBuff: {
+		DisplayName: Example Pet Buff
+		Description: Mods.test.Buffs.ExamplePetBuff.Description
+	}
+
+	ThimbletackBuff: {
+		DisplayName: Thimbletack Buff
+		Description: Mods.test.Buffs.ThimbletackBuff.Description
+	}
+}
+
+Projectiles: {
+	ExampleLightPetProjectile.DisplayName: Example Light Pet Projectile
+	ExamplePetProjectile.DisplayName: Example Pet Projectile
+	ThimbletackProjectile.DisplayName: Thimbletack Projectile
+}
